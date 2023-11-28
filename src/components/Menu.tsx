@@ -5,7 +5,7 @@ import { IoRibbon } from "react-icons/io5";
 
 const Menu: React.FC = () => {
   return (
-    <div className='bg-[#FBFBFB] w-[20rem] h-[10rem] border border-[#E2E2E2] px-[0.6rem] py-[0.9rem] lg:py-[0.675rem] rounded-[1rem] lg:rounded-[0.75rem]'>
+    <div className='bg-[#FBFBFB] w-[20rem] inset-0 z-50 h-[10rem] border border-[#E2E2E2] px-[0.6rem] py-[0.9rem] lg:py-[0.675rem] rounded-[1rem] lg:rounded-[0.75rem]'>
         <p className='text-[10px] font-semibold justify-center flex'>0xb2Aa3EC23CAeaD39442cecaffDEA4240A1D448E5</p>
 
         <div className='mt-4'>
